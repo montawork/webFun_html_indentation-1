@@ -1,11 +1,12 @@
 # Indentation Practice
 
 ## Use `git` & `github` to set up this assignment
+
 1. Fork the repo
 2. Use `git clone <repo url>` to clone the repo on your computer
 3. Use your text editor to properly indent the html
 4. Use `git` to `commit` and `push` the changes to your forked repo
-5. Submit the assignment using the `github` link 
+5. Submit the assignment using the `github` link
 
 ## Set up your editor:
 
